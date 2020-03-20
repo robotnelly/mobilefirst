@@ -6,7 +6,7 @@ header#encabezado {
 
 
 /*Media Queries*/
-@media screen and (min-width:0px) and (max-width: 300px) {
+@media screen and (min-width:0px) and (max-width: 200px) {
 
     header#encabezado{
         background-color: black;
@@ -16,7 +16,7 @@ header#encabezado {
 
 }
 
-@media screen and (min-width:301px) and (max-width: 400px) {
+@media screen and (min-width:201px) and (max-width: 350px) {
 
     header#encabezado{
         background-color: red;
@@ -26,7 +26,7 @@ header#encabezado {
 
 }
 
-@media screen and (min-width:401px) and (max-width: 700px) {
+@media screen and (min-width:351px) and (max-width: 600px) {
 
     header#encabezado{
         background-color: blue;
@@ -36,7 +36,7 @@ header#encabezado {
 }
 
 
-@media screen and (min-width:701px) and (max-width: 900px) {
+@media screen and (min-width:601px) and (max-width: 800px) {
 
     header#encabezado{
         background-color: purple;
@@ -45,7 +45,7 @@ header#encabezado {
     
 }
 
-@media screen and (min-width:901px) and (max-width: 1100px) {
+@media screen and (min-width:801px) and (max-width: 1000px) {
 
     header#encabezado{
         background-color: green;
@@ -54,7 +54,7 @@ header#encabezado {
     
 }
 
-@media screen and (min-width:1101px) and (max-width: 1200px) {
+@media screen and (min-width:1001px) and (max-width: 1200px) {
 
     header#encabezado{
         background-color: orange;
